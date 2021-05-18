@@ -5,4 +5,4 @@ I have done many advanced projects using DNNs, CNNs and have seen their respecti
 
 PS: Major music platforms use this technique on their platforms to make color contrasts.  
 
-![o.png]
+!['o.png']
