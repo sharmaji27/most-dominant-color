@@ -5,4 +5,6 @@ I have done many advanced projects using DNNs, CNNs and have seen their respecti
 
 PS: Major music platforms use this technique on their platforms to make color contrasts.  
 
+Do visit my blog for better explanations: https://machinelearningprojects.net/most-dominant-colors-in-an-image/
+
 ![](o.png)
